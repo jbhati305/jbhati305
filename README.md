@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/user-attachments/assets/279b0b88-ed1b-45ea-91ea-338968c71323)
 <h1 align="center">Hi 👋, I'm Jitesh Bhati</h1>
 <h3 align="center">A passionate robotics engineer from India, focused on building intelligent, autonomous systems through hardware-software integration.</h3>
 
